@@ -3,7 +3,10 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Canadd
+  - obstacle
+  - won
   layers:
   - Default
   - TransparentFX
