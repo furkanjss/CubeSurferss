@@ -11,19 +11,19 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/canCollect.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/CubeController.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/trailController.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/obstacle.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A0EF933B-1AA5-4B66-8801-EA864E4204FE/fd/1d849a60/GameObject.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/CharacterMovement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/LevelsSystem/UISystem/MainVideo/startGame.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
       <option value="$PROJECT_DIR$/Assets/Script/CharacterMovement.cs" />
       <option value="$PROJECT_DIR$/Assets/canCollect.cs" />
-      <option value="$PROJECT_DIR$/Assets/obstacle.cs" />
       <option value="$PROJECT_DIR$/Assets/trailController.cs" />
+      <option value="$PROJECT_DIR$/Assets/obstacle.cs" />
       <option value="$PROJECT_DIR$/Assets/Script/CubeController.cs" />
+      <option value="$PROJECT_DIR$/Assets/LevelsSystem/UISystem/MainVideo/startGame.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="235maLlBGavtAXjEak0E0DbpH53" />
@@ -74,6 +74,8 @@
       <option name="presentableId" value="Default" />
       <updated>1641032384951</updated>
       <workItem from="1641032393007" duration="6157000" />
+      <workItem from="1641051935076" duration="5904000" />
+      <workItem from="1641066471874" duration="1055000" />
     </task>
     <servers />
   </component>

@@ -7,6 +7,8 @@ TagManager:
   - Canadd
   - obstacle
   - won
+  - collect
+  - end
   layers:
   - Default
   - TransparentFX
